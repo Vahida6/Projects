@@ -1,3 +1,4 @@
+[train (1).csv](https://github.com/Vahida6/Projects/files/10849866/train.1.csv)
 # Projects
 
 This data science project series walks through step by step process of EDA. 
@@ -10,3 +11,4 @@ Finding the null values and outliers and their removal will be done in step by s
 
 Any suggestions about this project are highly appreciated.
  
+[train .csv](https://github.com/Vahida6/Projects/files/10849885/train.csv)
